@@ -578,19 +578,3 @@ Start with structural validation and tool call metrics: they are cheap, reliable
 The teams that catch agent quality problems before their users do are not the ones with the most sophisticated infrastructure. They are the ones who decided early that output quality is a first-class operational metric, instrumented accordingly, and built the discipline to review it alongside latency and error rates. That decision is available to any team. It just requires treating what your agent says as seriously as whether it responds.
 
 [Omnithium](https://omnithium.ai) is built to give enterprise teams exactly that: first-class observability, quality scoring, and end-to-end traceability from agent runs to user feedback. [Explore pricing](https://omnithium.ai/pricing) or visit our [resource library](https://omnithium.ai/resources) to learn more.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/agent-observability-beyond-uptime).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
